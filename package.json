@@ -1,0 +1,27 @@
+{
+  "name": "oxml",
+  "version": "1.0.0",
+  "description": "unofficial open xml package",
+  "main": "./dist/oxml.js",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-bundle-assets": "^2.19.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dimkk/oxml.git"
+  },
+  "keywords": [
+    "openxml"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimkk/oxml/issues"
+  },
+  "homepage": "https://github.com/dimkk/oxml"
+}
