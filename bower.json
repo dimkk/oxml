@@ -5,7 +5,7 @@
   "authors": [
     "Dima <dimkk@outlook.com>"
   ],
-  "main": "./dist/oxml.js",
+  "main": ["./dist/oxml.js", "./dist/maps/oxml.js.map"],
   "keywords": [
     "openxml"
   ],
